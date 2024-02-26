@@ -223,4 +223,5 @@ df1
 
 ## Result
 <br>
+
 ### Hence the data was cleaned , outliers were detected and removed.
