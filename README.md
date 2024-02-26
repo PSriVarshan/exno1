@@ -26,7 +26,7 @@
 ### STEP 6
 #### Use zscore of to remove outliers
 
-## Coding 
+## Coding and Outputs
 
 <h3 align="center">Data Cleaning</h3>
 
